@@ -7,4 +7,4 @@ Serial content i.e. content that is produced as part as of a series. It is envis
 - WordPress resolutions
 - Digital Citizenship
 - WordPress Translation Day editions (labelled 'translation')
-- LoveWP (items on this to be moved to this repository)
+- ILoveWP (items on this to be moved to this repository)
